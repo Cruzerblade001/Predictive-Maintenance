@@ -40,9 +40,8 @@ After predicting class either "1" (requires maintenance) or "0" (can continue it
 ## How to Run the Project
 1. Clone this repository to your local machine using `git clone <repository-url>`.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. To get address of Arduino when connected to raspberry pi. Type the command `ls/dev/tty*`
-4. The file named ACM will be your address.
-5. Run the Hardware_project.py file to execute the project.
+3. To get address of Arduino when connected to raspberry pi. Type the command `ls/dev/tty*`. The option containing ACM will be your address.
+4. Run the Hardware_project.py file to execute the project.
    
 
 ## Video Link
