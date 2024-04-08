@@ -42,3 +42,6 @@ After predicting class either "1" (requires maintenance) or "0" (can continue it
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the main script to execute the project.
 
+## Video Link
+https://youtu.be/t2JfOT9Hbh0
+
