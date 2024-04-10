@@ -43,7 +43,13 @@ After predicting class either "1" (requires maintenance) or "0" (can continue it
 3. To get address of Arduino when connected to raspberry pi. Type the command `ls/dev/tty*`. The option containing ACM will be your address.
 4. Run the Hardware_project.py file to execute the project.
    
+## Author
+1. Harshit Sahu
+2. Aditya 
+3. Arpit Gandhi
 
 ## Video Link
 https://youtu.be/t2JfOT9Hbh0
+
+
 
